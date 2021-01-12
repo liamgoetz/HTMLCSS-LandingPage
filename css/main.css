@@ -125,7 +125,7 @@ section {
 .nav-list li a {
     font-size: 16px;
     text-transform: uppercase;
-    letter-spacing: .2px;
+    letter-spacing: 0.2px;
     font-weight: 700;
 }
 
@@ -140,7 +140,7 @@ margin-left: auto;
     color: #364147;
 }
 
-.account li {
+.account a {
     font-size: 14px;
 }
 
