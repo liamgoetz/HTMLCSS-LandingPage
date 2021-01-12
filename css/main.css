@@ -170,7 +170,7 @@ margin-left: auto;
     color: #faa541;
 }
 
-.hero h1 h2 {
+.hero h1, .hero h2 {
     font-size: 63px;
     font-weight: 700;
     line-height: .9;
@@ -184,5 +184,5 @@ margin-left: auto;
 }
 
 .banner {
-
+    
 }
