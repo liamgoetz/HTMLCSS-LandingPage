@@ -308,6 +308,7 @@ margin-left: auto;
 }
 
 footer {
+    display: flex;
     flex-wrap: wrap;
     position: relative;
     z-index: 0;
@@ -329,10 +330,7 @@ footer:after {
 
 .lists {
     flex: 0 0 75%;
-    left: 15px;
-    right: 15px;
-    top: 40px;
-    bottom: 40px;
+    padding: 40px 15px;
 }
 
 .link-header {
@@ -354,7 +352,7 @@ footer a {
     display: inline-block;
 }
 
-.social ul li a {
+.social ul li {
     display: block;
     width: 23px;
     height: 23px;
