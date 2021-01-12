@@ -154,8 +154,8 @@ margin-left: auto;
     max-width: 100%;
 }
 
-.hero {
-    background-image: url('../img/hero.jpg');
+.hero { 
+    background-image: url('../img/hero.jpg'); 
     height: 400px;
     background-size: cover;
     background-position: center center;
@@ -166,6 +166,7 @@ margin-left: auto;
     position: relative;
     left: -30px;
 }
+
 .hero h2 {
     color: #faa541;
 }
