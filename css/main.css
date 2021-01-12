@@ -433,6 +433,6 @@ footer a:hover {
     flex: 0 0 75%;
     padding: 10px 0;
     font-size: 12px;
-    align-content: center;
+    text-align: center;
 }
     
