@@ -343,9 +343,12 @@ footer:after {
 footer a {
     color: white;
     font-size: 12px;
-    text-decoration: underline;
     padding: 0 0 4px;
     text-transform: uppercase;
+}
+
+footer a:hover {
+    text-decoration: underline;
 }
 
 .social ul li a {
