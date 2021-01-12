@@ -82,3 +82,20 @@ section {
     font-size: 16px;
     color: #364147;
 }
+
+.header-nav {
+    border-bottom: 1px;
+    border-color: #a0a0a0;
+}
+
+.brand {
+    margin-left: -15px;
+    margin-right: 60px;
+    height: 170px;
+    width: 85px;
+}
+
+.logo {
+    max-width: 100%;
+    height: auto;
+}
