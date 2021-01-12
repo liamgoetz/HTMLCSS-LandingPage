@@ -91,11 +91,15 @@ section {
 .brand {
     margin-left: -15px;
     margin-right: 60px;
-    height: 170px;
-    width: 85px;
+    width: 170px;
+    height: 85px;
 }
 
 .logo {
     max-width: 100%;
     height: auto;
+}
+
+.search-box {
+
 }
