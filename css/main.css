@@ -402,6 +402,7 @@ footer a:hover {
     width: 150px;
     min-width: auto;
     text-transform: uppercase;
+    letter-spacing: 1px;
 }
 
 .ps {
