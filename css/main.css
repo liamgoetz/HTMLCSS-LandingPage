@@ -28,3 +28,23 @@ section {
 .flex-one {
     flex: 1;
 }
+
+.align-center {
+    align-items: center;
+}
+
+.center {
+    justify-content: center;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+.button {
+    line-height: 1.4;
+    cursor: pointer;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 3px;
+}
