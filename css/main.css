@@ -155,13 +155,17 @@ margin-left: auto;
 }
 
 .hero {
-    background-image: "img/hero.jpg";
+    background-image: url('img/hero.jpg');
     height: 400px;
     background-size: cover;
-    background-position: center;
+    background-position: center center;
     text-transform: uppercase;
 }
 
+.hero h1 {
+    position: relative;
+    left: -30px;
+}
 .hero h2 {
     color: #faa541;
 }
@@ -176,6 +180,9 @@ margin-left: auto;
     letter-spacing: 2px;
     font-weight: 700;
     font-size: 21px;
-    margin: 0 0 10px 0;
-    
+    margin: 0 0 10pxS;
+}
+
+.banner {
+
 }
